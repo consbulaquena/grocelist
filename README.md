@@ -1,5 +1,8 @@
 ![alt tag](https://cloud.githubusercontent.com/assets/10540496/24771310/b68a9324-1b3f-11e7-846b-a92a98ab6af8.png)
 
+
+[![Swift](https://img.shields.io/badge/Swift-3.0-orange.svg)]() [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
+
 iOS app for listing your groceries.
 
 
